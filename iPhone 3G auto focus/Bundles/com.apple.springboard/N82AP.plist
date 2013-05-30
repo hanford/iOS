@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+
+<dict>
+
+	<key>capabilities</key>
+
+	<dict>
+
+		<key>accelerometer</key>
+
+		<true/>
+
+		<key>any-telephony</key>
+
+		<true/>
+
+		<key>applicationInstallation</key>
+
+		<true/>
+
+		<key>armv6</key>
+
+		<true/>
+
+		<key>bluetooth</key>
+
+		<true/>
+
+		<key>delay-sleep-for-headset-click</key>
+
+		<false/>
+
+		<key>device-name</key>
+
+		<string>iPhone</string>
+
+		<key>gps</key>
+
+		<true/>
+
+		<key>hw-encode-snapshots</key>
+
+		<true/>
+
+		<key>hw-snapshots-need-purplegfx</key>
+
+		<true/>
+
+		<key>international-settings</key>
+
+		<true/>
+
+		<key>location-services</key>
+
+		<true/>
+
+		<key>marketing-name</key>
+
+		<string>iPhone 3G</string>
+
+		<key>microphone</key>
+
+		<true/>
+
+		<key>mms</key>
+
+		<true/>
+
+		<key>opengles-1</key>
+
+		<true/>
+
+		<key>peer-peer</key>
+
+		<true/>
+
+		<key>proximity-sensor</key>
+
+		<true/>
+
+		<key>ringer-switch</key>
+
+		<true/>
+
+		<key>sms</key>
+
+		<true/>
+
+		<key>stand-alone-contacts</key>
+
+		<true/>
+
+		<key>still-camera</key>
+
+		<true/>
+
+		<key>telephony</key>
+
+		<true/>
+
+		<key>telephony-maximum-generation</key>
+
+		<integer>3</integer>
+
+		<key>unified-ipod</key>
+
+		<true/>
+
+		<key>volume-buttons</key>
+
+		<true/>
+
+		<key>wifi</key>
+
+		<true/>
+
+		
+
+		<key>gas-gauge-battery</key><true/>
+		<key>auto-focus-camera</key><true/>
+		
+
+	</dict>
+
+	<key>iconState</key>
+
+	<dict>
+
+		<key>buttonBar</key>
+
+		<array>
+
+			<string>com.apple.mobilephone</string>
+
+			<string>com.apple.mobilemail</string>
+
+			<string>com.apple.mobilesafari</string>
+
+			<string>com.apple.mobileipod-MediaPlayer</string>
+
+		</array>
+
+		<key>iconLists</key>
+
+		<array>
+
+			<array>
+
+				<string>com.apple.MobileSMS</string>
+
+				<string>com.apple.mobilecal</string>
+
+				<string>com.apple.mobileslideshow-Photos</string>
+
+				<string>com.apple.mobileslideshow-Camera</string>
+
+				<string>com.apple.youtube</string>
+
+				<string>com.apple.stocks</string>
+
+				<string>com.apple.Maps</string>
+
+				<string>com.apple.weather</string>
+
+				<string>com.apple.mobilenotes</string>
+
+				<dict>
+
+					<key>defaultDisplayName</key>
+
+					<string>Utilities</string>
+
+					<key>iconLists</key>
+
+					<array>
+
+						<array>
+
+							<string>com.apple.mobiletimer</string>
+
+							<string>com.apple.calculator</string>
+
+							<string>com.apple.VoiceMemos</string>
+
+						</array>
+
+					</array>
+
+				</dict>
+
+				<string>com.apple.MobileStore</string>
+
+				<string>com.apple.AppStore</string>
+
+				<string>com.apple.gamecenter</string>
+
+				<string>com.apple.Preferences</string>
+
+			</array>
+
+			<array>
+
+				<string>com.apple.MobileAddressBook</string>
+
+			</array>
+
+		</array>
+
+	</dict>
+
+</dict>
+
+</plist>
